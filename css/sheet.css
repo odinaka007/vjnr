@@ -798,6 +798,7 @@ a{
     background: url("../images/geometry-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     position: relative;
     background-attachment: fixed;
     padding: 60px 0;
@@ -814,7 +815,7 @@ a{
     z-index: 1;
     display: flex;
     content: '';
-    opacity: 90%;
+    opacity: 70%;
 }
 .page-body .page-body-container .why .why-container{
     width: 1200px;
@@ -1828,9 +1829,18 @@ a{
   flex-direction: column;
   gap: 40px;
 }
+.page-body .page-body-container .random .random-container .leftside{
+  padding: 0 ;
+}
+.page-body .page-body-container .random .random-container .rightside{
+  padding: 0 ;
+}
 .page-body .page-body-container .random .random-container .leftside .box img{
     
   height: fit-content;
+}
+.page-body .page-body-container .random .random-container .rightside .case{
+  height: 100%;
 }
 .page-body .page-body-container .random .random-container .rightside .case img{
   height: fit-content;
@@ -1963,7 +1973,7 @@ a{
   display: flex;
 }
 .page-body .page-body-container .curriculum .rest .card{
-  width: 95%;
+  width: 100%;
 }
 
 

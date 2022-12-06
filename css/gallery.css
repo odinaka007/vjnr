@@ -247,6 +247,11 @@ a{
   flex-direction: column;
 
 }
+.page-body .page-body-container .head h1{
+  text-align: center;
+  font-size: 40px;
+
+}
 
 .waviy {
   position: relative;

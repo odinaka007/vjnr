@@ -801,6 +801,10 @@ a{
     background-position: center;
     position: relative;
     background-attachment: fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     padding: 60px 0;
     height: 750px;
     display: flex;
@@ -815,7 +819,7 @@ a{
     z-index: 1;
     display: flex;
     content: '';
-    opacity: 70%;
+    opacity: 80%;
 }
 .page-body .page-body-container .why .why-container{
     width: 1200px;

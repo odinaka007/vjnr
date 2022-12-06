@@ -434,7 +434,7 @@ a{
     width: 100%;
     border: solid 5px var(--primary-color);
     border-radius: 15px;
-    background: url(/images/005.jpg);
+    background: url(../images/005.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -534,7 +534,7 @@ a{
    border-bottom-left-radius: 100%;
    border-bottom-right-radius: 100%;
    object-fit: cover;
-   background: url(/images/IMG_9491.JPG);
+   background: url(../images/IMG_9491.JPG);
    background-position: top;
    background-size: cover;
    border: 5px solid var(--primary-color);

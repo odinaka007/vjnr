@@ -251,6 +251,7 @@ a{
 .waviy {
   position: relative;
   text-align: center;
+  z-index: -1;
 }
 .waviy span {
   position: relative;

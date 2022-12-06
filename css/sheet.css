@@ -813,7 +813,7 @@ a{
 
 @supports (-webkit-touch-callout: none) {
   .page-body .page-body-container .why{
-      background: url('../images/geometry-bg.jpg') center top no-repeat fixed;
+      background: url('../images/geometry-bg.jpg') center top no-repeat scroll;
       background-size: auto 100%;
   }    
   }
@@ -2066,9 +2066,7 @@ a{
     width: 100%;
     
    }
-   .the-rest{
-    grid-template-columns: 1fr 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 1fr;
-}
+
 
 
 }

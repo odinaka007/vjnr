@@ -809,6 +809,13 @@ a{
     height: 750px;
     display: flex;
 }
+
+@supports (-webkit-touch-callout: none) {
+  .page-body .page-body-container .why{
+      background: url('../images/geometry-bg.jpg') center top no-repeat scroll;
+      background-size: auto 100vh;
+  }    
+  }
 .page-body .page-body-container .why::after{
     background: var(--primary-color);
     position: absolute;
@@ -819,7 +826,7 @@ a{
     z-index: 1;
     display: flex;
     content: '';
-    opacity: 80%;
+    opacity: 90%;
 }
 .page-body .page-body-container .why .why-container{
     width: 1200px;

@@ -354,12 +354,12 @@ a{
     height: 620px;
     width: 100%;
     background-color: #F7F7F7;
-    bacground: url("/images/backpack-with-school-supplies-white-background.jpg");
+    bacground: url("../images/backpack-with-school-supplies-white-background.jpg");
     
     position: relative;
     position: relative;
     overflow: hidden;
-    backgrund: url("/images/backpack-with-school-supplies.jpg");
+    backgrund: url("../images/backpack-with-school-supplies.jpg");
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -661,7 +661,7 @@ a{
 }
 .header .header-container .header-two .rightside ul li{ 
         font-size: 14px; 
-        background-image: url("/images/NicePng_smile-png_1529091.png");
+        background-image: url("../images/NicePng_smile-png_1529091.png");
             background-repeat: no-repeat;
             background-position: left center;
             background-size: 20px;
@@ -1516,7 +1516,7 @@ a{
     top: 0;
     width: 100%;
     height: 100%;
-    background: url('/images/tab-bg.jpg');
+    background: url('../images/tab-bg.jpg');
     background-position: center;
     background-size: cover;
     opacity: 10%;

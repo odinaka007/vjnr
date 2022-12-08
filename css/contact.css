@@ -471,6 +471,7 @@ a{
 .page-body .page-body-container .map{
     width: 100%;
     padding: 40px 0;
+    z-index: 10;
 }
 .page-body .page-body-container .map .map-container{
     width: 1200px;

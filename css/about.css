@@ -315,6 +315,7 @@ a{
     padding: 0 15px;
     height: fit-content;
     padding-bottom: 60px;
+    z-index: 10;
 }
 .page-body .page-body-container .vision .head{
     display: flex;

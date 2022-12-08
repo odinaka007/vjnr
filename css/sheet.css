@@ -1313,10 +1313,11 @@ a{
     text-align: center;
     width: 100%;
     position: relative;
+    box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.24);
+    
   }
   .page-body .page-body-container .elementor .elementor-container .one:hover{
-    
-    box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.24);
+     box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.24);
     
   }
   .page-body .page-body-container .elementor .elementor-container .one .square{
